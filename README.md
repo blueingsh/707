@@ -3,7 +3,7 @@
 YOU NEED MINECRAFT BEDROCK EDITION OR POCKET EDITION 
 
 (sadly i only know the ios method how to get the mc world in your minecraft so if you have android try looking it up)
--=-=-=-=-=--=-=-=-=-=-=-=-=-=---=-=-=-=-=--=-=-=-=-=-=-=-=-=---=-=-=-=-=--=-=-=-=-=-=-=-=-=---=-=-=-=-=--=-=-=-=-=-=-=-=-=---=-
+-=-=-=-=-=--=-=-=-=-=-=-=-=-=---=-=-=-=-=--=-=-=-=-=-=-=-=-=---=-=-=-=-=--=-=-=-=-=-=-=-=-=---=-=-=-=
 Step 1 - Download from the releases
 Step 2 - Download the release from the releases (Dont download the source code zip / tar.gz !!)
 Step 2b - Unzip it
